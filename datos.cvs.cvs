@@ -1,0 +1,7 @@
+comuna,fecha,contaminante,nivel,episodio_critico
+Puente Alto,2015-06-12,PM2.5,120,si
+Las Condes,2015-06-12,PM2.5,65,no
+Independencia,2015-06-12,PM2.5,95,no
+Puente Alto,2018-07-03,PM10,180,si
+Las Condes,2018-07-03,PM10,90,no
+Independencia,2018-07-03,PM10,130,no
